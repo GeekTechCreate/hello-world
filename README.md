@@ -2,3 +2,4 @@
 Another Repository
 Here is a test
 THIS IS THE BIG TEST
+destiny purge
